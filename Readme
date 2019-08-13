@@ -1,0 +1,14 @@
+This is a flume sink.
+这是个flume sink
+
+This sink is applicable to data changes under certain circumstances
+该sink适用于数据在一定情况下的改编
+
+This sink supports dynamic change of data insertion format
+该sink支持动态更改数据插入格式
+
+Data changes can be dynamically monitored through zookpeer listening
+通过zookpeer监听功能可以动态监控数据变化
+
+The configuration file is zk.conf in resources
+配置文件在resources中的zk.conf
