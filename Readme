@@ -12,3 +12,9 @@ Data changes can be dynamically monitored through zookpeer listening
 
 The configuration file is zk.conf in resources
 配置文件在resources中的zk.conf
+
+Inside contains the class to turn json into utils
+内部包含类转json的utils
+
+You can customize the bean to json
+可以自定义将bean转json
