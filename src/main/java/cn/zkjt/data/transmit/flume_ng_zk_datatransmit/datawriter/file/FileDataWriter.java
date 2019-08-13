@@ -27,7 +27,7 @@ public class FileDataWriter implements DataWriter{
 			writePath = writePath + "/";
 		}
 		
-		int year = calendar.get(Calendar.YEAR);
+		int year = calendar.get(Calendar.YEAR); 
 		int month = calendar.get(Calendar.MONTH) + 1;
 		int day = calendar.get(Calendar.DAY_OF_MONTH);
 		int hour = calendar.get(Calendar.HOUR_OF_DAY);
